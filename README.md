@@ -196,9 +196,6 @@ This project is licensed under the MIT License.
 ### Developers:
 
     Mennatallah Khayat
-    Amr Abu kharmeh
-    Feras Abushahla
-    Ramzi Osta
 
 ## Test the app
 
